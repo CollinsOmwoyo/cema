@@ -1,0 +1,7 @@
+The Utibu Health Mobile App streamlines the medication ordering process for patients with chronic conditions such as HIV, diabetes, and hypertension. Developed to enhance convenience, the app enables registered customers to remotely place orders for their prescriptions and check their statements with ease.
+
+Designed to integrate seamlessly with Utibu Health's existing infrastructure, including its legacy desktop application built on Delphi and powered by Microsoft SQL Server, the mobile app ensures continuity in medication management. Orders placed through the app are synchronized with the pharmacy's inventory system, encompassing medication stock management, customer orders, sales, invoices, and payments.
+
+With a focus on user experience and accessibility, the app provides real-time updates on order status, allowing customers to receive confirmation upon successful order placement. Clients have the flexibility to choose between collecting their medication in person or opting for delivery. Payment options include immediate settlement or deferred payment upon collection.
+
+Utilizing innovative technologies and robust solutions, the Utibu Health Mobile App bridges the gap between patients and pharmacy services, facilitating efficient medication procurement while maintaining the reliability and integrity of the existing database system. Despite the health facility's lack of a public IP address, the app ensures secure and seamless communication, ensuring that online orders seamlessly integrate into the legacy database for streamlined operations.
